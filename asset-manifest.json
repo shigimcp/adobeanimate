@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shigimcp/adobeanimate/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/shigimcp/adobeanimate/static/js/main.ef36809e.chunk.js",
+    "main.js.map": "/shigimcp/adobeanimate/static/js/main.ef36809e.chunk.js.map",
+    "runtime-main.js": "/shigimcp/adobeanimate/static/js/runtime-main.88f113ab.js",
+    "runtime-main.js.map": "/shigimcp/adobeanimate/static/js/runtime-main.88f113ab.js.map",
+    "static/js/2.b890df05.chunk.js": "/shigimcp/adobeanimate/static/js/2.b890df05.chunk.js",
+    "static/js/2.b890df05.chunk.js.map": "/shigimcp/adobeanimate/static/js/2.b890df05.chunk.js.map",
+    "index.html": "/shigimcp/adobeanimate/index.html",
+    "precache-manifest.2da0c13fedbadee5a1d51964b2316bd4.js": "/shigimcp/adobeanimate/precache-manifest.2da0c13fedbadee5a1d51964b2316bd4.js",
+    "service-worker.js": "/shigimcp/adobeanimate/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/shigimcp/adobeanimate/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b890df05.chunk.js.LICENSE.txt": "/shigimcp/adobeanimate/static/js/2.b890df05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88f113ab.js",
+    "static/js/2.b890df05.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ef36809e.chunk.js"
+  ]
+}

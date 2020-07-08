@@ -144,7 +144,7 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.mc_tag, new cjs.Rectangle(0,0,233.3,14), null);
 
@@ -239,7 +239,7 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_18},{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).wait(1));
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.mc_logo, new cjs.Rectangle(0,0,250,70.2), null);
 
@@ -260,7 +260,7 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.mc_image, new cjs.Rectangle(0,0,300,600), null);
 
@@ -276,7 +276,7 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(0,0,0,0);
@@ -299,7 +299,7 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.mc_bottle, new cjs.Rectangle(0,-1,95,75), null);
 
@@ -321,7 +321,7 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.mc_block, new cjs.Rectangle(-50,-50,100,100), null);
 
@@ -342,7 +342,7 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.mc_bg, new cjs.Rectangle(0,0,300,600), null);
 
@@ -420,7 +420,7 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get(this.mc_block).wait(3).to({_off:false},0).wait(1));
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-70,0,140,20);
@@ -729,7 +729,7 @@ if (reversed == null) { reversed = false; }
 
 	this.timeline.addTween(cjs.Tween.get(this.mc_bg).wait(1));
 
-	this._renderFirstFrame();
+	// this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
 p.nominalBounds = new cjs.Rectangle(150,300,150.10000000000002,300);

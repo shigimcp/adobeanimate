@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85a2b40133e996e60c2a4c93106e500d",
+    "revision": "49bf2ef06f11fb07cb8527c802aa05dc",
     "url": "/adobeanimate/index.html"
   },
   {
